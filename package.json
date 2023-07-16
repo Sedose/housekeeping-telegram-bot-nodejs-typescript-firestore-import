@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^6.6.1",
+    "csv-parse": "^5.4.0"
+  }
 }
